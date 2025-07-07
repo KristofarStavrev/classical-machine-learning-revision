@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "machine-learning-beginner-projects"
+version = "0.1.0"
+description = ""
+authors = ["kristofar.stavrev <kristofar.stavrev@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.10"
+jupyterlab = "^4.4.4"
+numpy = "^2.2.6"
+scikit-learn = "^1.7.0"
+pandas = "^2.3.0"
+matplotlib = "^3.10.3"
+seaborn = "^0.13.2"
+statsmodels = "^0.14.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
