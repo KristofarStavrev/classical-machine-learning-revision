@@ -35,8 +35,4 @@ The following notebooks are included:
 - numpy, pandas, scikit-learn, matplotlib, seaborn, statsmodels, xgboost, lightgbm, catboost
 
 All dependencies are listed in `pyproject.toml` and will be installed with Poetry.
-
-## License
-
-This project is for educational purposes.
  
